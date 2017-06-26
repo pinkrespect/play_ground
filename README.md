@@ -22,4 +22,4 @@ Personal and Secret web project `Play Ground`
 - Postgre
 
 ## TODO
-[ ] Twitter log-in
+- [ ] Twitter log-in
