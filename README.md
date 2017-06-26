@@ -14,7 +14,12 @@ Personal and Secret web project `Play Ground`
 ### Library
 
 - Flask
+- Flask-login
+- Flask-sqlalchemy
 
 ### Database
 
 - Postgre
+
+## TODO
+[ ] Twitter log-in
